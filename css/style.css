@@ -11,6 +11,9 @@
 
 
 /* start navigation */ 
+.imgBrand{
+    padding-left: 40px;
+} 
 
 .header_area .main-menu .navbar .navbar-brand{
     padding: 0 2rem 0 5rem;
@@ -43,3 +46,10 @@
 
 
 /* end navigation */ 
+
+/* Banner area */
+.site-main.site-banner{
+    background:url(../img/banner-bg.jpg)no-repeat;
+    background-position: 0% 50%;
+}
+/* End Banner area */
